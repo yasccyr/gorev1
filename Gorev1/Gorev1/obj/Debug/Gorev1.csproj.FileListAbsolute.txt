@@ -1,0 +1,7 @@
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\bin\Debug\Gorev1.exe.config
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\bin\Debug\Gorev1.exe
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\bin\Debug\Gorev1.pdb
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\obj\Debug\Gorev1.csproj.AssemblyReference.cache
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\obj\Debug\Gorev1.csproj.CoreCompileInputs.cache
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\obj\Debug\Gorev1.exe
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev1\Gorev1\obj\Debug\Gorev1.pdb
